@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # 💬 Frontend Chat Application
 
 This is the **frontend** part of a test task for a real-time chat application built with **React + TypeScript**.
